@@ -72,7 +72,3 @@ function generateCodigo(text) {
 
   return code;
 }
-
-console.log(generateCodigo("hola mundo"));
-console.log(generateCodigo("juan david berbero"));
-console.log(generateCodigo(""));
